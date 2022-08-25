@@ -237,12 +237,12 @@ section {
 
 .services__item:hover {
   transition: border 0.3s;
-  border-bottom: 5px solid #cefe1a;
+  border-bottom: 5px solid #2e96d7;
 }
 
 .services__item:hover i {
   transition: all 0.3s;
-  color: #cefe1a;
+  color: #2e96d7;
 }
 
 .services__item i {
@@ -403,4 +403,8 @@ section {
 
 #typed {
   display: inline
+}
+
+#corazon{
+  color: #ff0003;
 }
