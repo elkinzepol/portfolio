@@ -120,13 +120,13 @@ video{
 }
 
 .home {
-  min-height: 100vh;
   display: flex;
   padding: 30px;
   justify-content: center;
   align-items: center;
   background: #000000cc;
   position: relative;
+  min-height: 100vh;
 }
 
 .home__background {
