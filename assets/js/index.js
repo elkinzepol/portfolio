@@ -50,7 +50,7 @@ function intersectionHandler(entry) {
 }
 
 const typed = new Typed("#typed", {
-  strings: ["- Websites -", "- Branding -", "- Frontend Developer -"],
+  strings: ["- Websites -", "- Branding -", "- Frontend Dev -","- Consultoría TI -"],
   // backSpeed: 40,
   // typeSpeed: 40
   backDelay: 2000,

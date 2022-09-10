@@ -379,6 +379,7 @@ video{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
+
 }
 
 .contact__item {
@@ -424,11 +425,12 @@ video{
   color: var(--white);
 }
 
-.frontend{
-  color:#2e96d7
-}
 #typed {
   display: inline
+}
+
+.frontend{
+  color:#2e96d7
 }
 
 #corazon{
